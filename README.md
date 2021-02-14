@@ -14,6 +14,6 @@ Mohammadzade, Hoda, Amirhossein Sayyafan, and Benyamin Ghojogh. "Pixel-Level Ali
 
 - Link to paper: http://arxiv-export-lb.library.cornell.edu/abs/1802.02438
 
-Some examples of facial pixel alignment by our method (here, we have removed facial expression to have neutral faces):
+Some examples of facial pixel alignment by our method (here, we have removed facial expression and facial poses to have neutral faces):
 
 ![Warping](https://user-images.githubusercontent.com/66282117/107889580-a6332a00-6ee1-11eb-817c-56790245b835.png)
